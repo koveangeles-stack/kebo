@@ -1,8 +1,12 @@
-
-year = int(input("What year were you born in? (After 1900):"))
-
-if year < 1900:
-    print("reread the instructions and do it again.")
-    break
-
-if year => 1900:
+i == 
+ii == 
+iii == 
+iv == Rabbit (兔 / Tù)
+v == Dragon (龙 / Lóng)
+vi == Snake (蛇 / Shé)
+vii == Horse (马 / Mǎ)
+viii == Goat (羊 / Yáng)
+ix ==
+x == 
+xi ==
+xii ==
