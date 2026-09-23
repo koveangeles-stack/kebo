@@ -10,4 +10,7 @@ Sample Codes:
 
 FA's:
 
-[FA1](https://github.com/koveangeles-stack/kebo/blob/main/q1_sg2_a1.md)
+[FA1](https://github.com/koveangeles-stack/kebo/blob/main/q1_sg2_a1.py)
+[FA2](https://github.com/koveangeles-stack/kebo/blob/main/q1_sg2_a3.py)
+FA3 (Passed on KHub)
+FA4 (Passed on KHub)
