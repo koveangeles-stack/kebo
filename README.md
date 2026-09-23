@@ -1,7 +1,4 @@
-# kebo
-Idk
+Kobe Chanrec R. Angeles
 
-Hello! I am:kobe chanrec rolle Angeles
-
-class #1 ix-arayat
+9 - ARAYAT
 
