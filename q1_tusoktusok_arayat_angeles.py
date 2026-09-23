@@ -22,3 +22,5 @@ fishball = Tusoktusok("fishball",vinegar)
 fishball.eat()
 del fishball
 print(vinegar)
+
+[TusokTusok](
