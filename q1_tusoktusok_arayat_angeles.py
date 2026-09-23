@@ -23,4 +23,4 @@ fishball.eat()
 del fishball
 print(vinegar)
 
-[TusokTusok](
+[TusokTusok](https://github.com/koveangeles-stack/kebo/blob/main/q1_tusoktusok_arayat_angeles.py)
